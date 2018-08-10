@@ -1,2 +1,2 @@
 # student-management-system
-## Read me file for student management 
+## This is an example of a dbms i created
